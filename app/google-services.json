@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1099316311151",
+    "firebase_url": "https://elite-security-e996a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "elite-security-e996a",
+    "storage_bucket": "elite-security-e996a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099316311151:android:fc8d1674cac6b60fe7c99a",
+        "android_client_info": {
+          "package_name": "com.example.elitescurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099316311151-52ju76h9kro47l58te77qcc6q8fvdjg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcooNbRmlRj1i1PfTdA42XzVu40jzPov4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099316311151-52ju76h9kro47l58te77qcc6q8fvdjg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099316311151:android:40885d2d5bec0df7e7c99a",
+        "android_client_info": {
+          "package_name": "com.example.elitesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099316311151-52ju76h9kro47l58te77qcc6q8fvdjg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcooNbRmlRj1i1PfTdA42XzVu40jzPov4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099316311151-52ju76h9kro47l58te77qcc6q8fvdjg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
