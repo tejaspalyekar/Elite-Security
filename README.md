@@ -45,15 +45,14 @@ To get started with Elite Security, follow the installation instructions provide
 ## Hardware Requirements
 
 1. ESP8266 (NodeMCU) microcontroller
-2. Motion sensors (PIR sensors)
-3. Door/window sensors (reed switches)
-4. Buzzer or alarm
-5. Wi-Fi connection for the ESP8266
+2. Motion sensors (IR sensors)
+3. Buzzer or alarm
+4. Wi-Fi connection for the ESP8266
 
 ## Software Requirements
 
 1. Arduino IDE
-2. Android Studio (for mobile application)
+2. Android Studio (for the mobile application)
 
 ## Installation
 
