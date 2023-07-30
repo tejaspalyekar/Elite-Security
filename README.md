@@ -1,7 +1,7 @@
 # Elite Security - IoT Smart Shop Security System
 
 ![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/elite_security.png)
-
+![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/mobile_ui.png)
 ## Table of Contents
 
 - [Project Description](#project-description)
