@@ -1,9 +1,11 @@
 # Elite Security - IoT Smart Shop Security System
 
 Embedded System Image
+
 ![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/images/elite_security.png)
 
 Android App Image(Only Main Control Panel)
+
 ![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/images/mobile_ui.png)
 ## Table of Contents
 
