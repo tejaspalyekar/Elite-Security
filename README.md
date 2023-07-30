@@ -1,7 +1,10 @@
 # Elite Security - IoT Smart Shop Security System
 
-![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/elite_security.png)
-![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/mobile_ui.png)
+Embedded System Image
+![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/images/elite_security.png)
+
+Android App Image(Only Main Control Panel)
+![Elite Security](https://github.com/tejaspalyekar/Elite-Security/raw/main/images/mobile_ui.png)
 ## Table of Contents
 
 - [Project Description](#project-description)
@@ -27,7 +30,7 @@ The project provides a cost-effective and scalable solution, making it accessibl
 ## Features
 
 - Real-time monitoring of the shop premises
-- Mobile application with alert notifications
+- Mobile application with alert notifications, User Authentication, Helpline Support and user Profil
 - Integration of ESP8266, sensors, and alarms for security detection
 - Cost-effective and scalable solution
 - Seamless hardware-to-app updates for continuous security coverage
